@@ -14,6 +14,13 @@ My typical day consists of being a Software Developer, Architect, Scrum Master, 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgalodha&layout=compact)
 
+## Let's Connect! 🌐
+*Talk to me about anything! ....* 😅
+- [![li](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=Linkedin)](https://www.linkedin.com/in/abhinavgalodha/)
+- [![me](https://img.shields.io/badge/Medium-black?style=social&logo=Medium)](https://medium.com/@abhinav.galodha)
+- [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/abhinavgalodha)
+
+
 <!--
 **abhinavgalodha/abhinavgalodha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
