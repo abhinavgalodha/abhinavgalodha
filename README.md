@@ -26,6 +26,8 @@ My typical day consists of being a Software Developer, Architect, Scrum Master, 
 #### Stack Overflow Profile
 <a href="https://stackexchange.com/users/173004"><img src="https://stackexchange.com/users/flair/173004.png" width="208" height="58" alt="profile for Abhinav Galodha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abhinav Galodha on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
+![](https://komarev.com/ghpvc/?username=abhinavgalodha)
+
 <!--
 **abhinavgalodha/abhinavgalodha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
